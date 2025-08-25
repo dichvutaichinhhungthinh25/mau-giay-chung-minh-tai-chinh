@@ -16,7 +16,7 @@
 
 # Sau khi chuẩn bị đầy đủ giấy tờ, bạn có thể đến ngân hàng để xin giấy chứng minh tài chính. Ngân hàng sẽ cấp giấy xác nhận số dư tài khoản hoặc giấy chứng nhận theo yêu cầu. Khi nhận được giấy, hãy kiểm tra kỹ thông tin, bao gồm tên người đứng tên, số dư tài khoản, thời gian gửi tiền, và thông tin ngân hàng cấp giấy.
 
-# 
+# Để biết hướng dẫn chi tiết và các mẫu giấy chứng minh tài chính chuẩn, bạn có thể tham khảo tại: https://dichvutaichinh.vn/mau-giay-chung-minh-tai-chinh.html
 
 # Một số ngân hàng phổ biến có mẫu giấy chứng minh tài chính là Vietcombank, VietinBank, BIDV, Sacombank. Bạn có thể tải mẫu giấy trực tiếp từ website của ngân hàng hoặc yêu cầu tại quầy giao dịch.
 
